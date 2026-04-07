@@ -1,0 +1,14 @@
+D:\Pycharn\VS\repos\Trening\Practica\bin\Debug\net10.0\Practica.exe
+D:\Pycharn\VS\repos\Trening\Practica\bin\Debug\net10.0\Practica.deps.json
+D:\Pycharn\VS\repos\Trening\Practica\bin\Debug\net10.0\Practica.runtimeconfig.json
+D:\Pycharn\VS\repos\Trening\Practica\bin\Debug\net10.0\Practica.dll
+D:\Pycharn\VS\repos\Trening\Practica\bin\Debug\net10.0\Practica.pdb
+D:\Pycharn\VS\repos\Trening\Practica\obj\Debug\net10.0\Practica.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pycharn\VS\repos\Trening\Practica\obj\Debug\net10.0\Practica.AssemblyInfoInputs.cache
+D:\Pycharn\VS\repos\Trening\Practica\obj\Debug\net10.0\Practica.AssemblyInfo.cs
+D:\Pycharn\VS\repos\Trening\Practica\obj\Debug\net10.0\Practica.csproj.CoreCompileInputs.cache
+D:\Pycharn\VS\repos\Trening\Practica\obj\Debug\net10.0\Practica.dll
+D:\Pycharn\VS\repos\Trening\Practica\obj\Debug\net10.0\refint\Practica.dll
+D:\Pycharn\VS\repos\Trening\Practica\obj\Debug\net10.0\Practica.pdb
+D:\Pycharn\VS\repos\Trening\Practica\obj\Debug\net10.0\Practica.genruntimeconfig.cache
+D:\Pycharn\VS\repos\Trening\Practica\obj\Debug\net10.0\ref\Practica.dll

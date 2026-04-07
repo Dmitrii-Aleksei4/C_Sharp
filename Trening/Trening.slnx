@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/рр/" />
+  <Folder Name="/рр/ввв/">
+    <Project Path="Practica/Practica.csproj" />
+  </Folder>
+  <Project Path="Сollections/Сollections.csproj" />
+</Solution>
